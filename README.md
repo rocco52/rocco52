@@ -80,7 +80,7 @@
 **🤖 AI**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge)
+![Codex](https://img.shields.io/badge/OpenAI%20Codex-555555?style=for-the-badge)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 
 **🐧 Linux & Containers**
