@@ -21,6 +21,7 @@
 - 🛡️ **Security** — Microsoft Defender and Sentinel, from the endpoint to the SOC
 - ⚙️ **Automation** — PowerShell, Microsoft Graph and infrastructure as code with Bicep and Terraform
 - 🚚 **Migrations** — from on-prem Active Directory and Exchange to Entra ID and Exchange Online
+- 🤖 **AI-assisted engineering** — Claude, Codex and DeepSeek for scripts, documentation and automating the automation
 
 ### 🧪 What I tinker with
 
@@ -77,6 +78,12 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**🤖 AI**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 
 **🐧 Linux & Containers**
 
