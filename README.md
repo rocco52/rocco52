@@ -12,7 +12,7 @@
 - 🏢 **Modern Workplace** — Microsoft 365, Entra ID, Intune, Autopilot and Conditional Access: secure, managed devices from day one
 - 🐧 **Linux every day** — Debian, Arch and Ubuntu; servers, desktops and everything in between
 - 🐳 **Containers & clusters** — Docker, Kubernetes and high-availability clusters, in production and in the homelab
-- 🍎 **Apple platforms** — macOS and iOS — managing them at work, daily-driving them at home
+- 🍎 **Apple platforms** — macOS and iOS: managing them at work, daily-driving them at home
 - 🏠 **Homelab** — racks, VLANs, hypervisors and services nobody asked for
 - 🤓 If it has an IP address, I'll probably try to run something on it
 
