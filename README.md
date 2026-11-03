@@ -20,7 +20,6 @@
 - 💻 **Modern Workplace** — Microsoft 365, Intune and Autopilot; Windows, macOS and iOS managed from day one
 - 🛡️ **Security** — Microsoft Defender and Sentinel, from the endpoint to the SOC
 - ⚙️ **Automation** — PowerShell, Microsoft Graph and infrastructure as code with Bicep and Terraform
-- 🚚 **Migrations** — from on-prem Active Directory and Exchange to Entra ID and Exchange Online
 - 🤖 **AI-assisted engineering** — Claude, Codex and DeepSeek for scripts, documentation and automating the automation
 
 ### 🧪 What I tinker with
@@ -28,9 +27,8 @@
 - 🐧 **Linux every day** — Debian, Arch and Ubuntu; servers, desktops and everything in between
 - 🐳 **Containers & clusters** — Docker, Kubernetes and high-availability clusters
 - 🏠 **Homelab** — Proxmox, Unraid and Raspberry Pis: racks, VLANs and services nobody asked for
-- 🤓 If it has an IP address, I'll probably try to run something on it
 
-🗣️ **Languages:** German · Turkish · English
+🗣️ **Languages:** 🇩🇪 German · 🇹🇷 Turkish · 🇬🇧 English
 
 ---
 
@@ -58,9 +56,9 @@
 ![Windows 365](https://img.shields.io/badge/Windows%20365-D83B01?style=for-the-badge)
 ![Exchange Online](https://img.shields.io/badge/Exchange%20Online-D83B01?style=for-the-badge)
 ![Purview](https://img.shields.io/badge/Purview-D83B01?style=for-the-badge)
-![Apple Business Manager](https://img.shields.io/badge/Apple%20Business%20Manager-000000?style=for-the-badge&logo=apple&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Apple Business Manager](https://img.shields.io/badge/Apple%20Business%20Manager-555555?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=macos&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-555555?style=for-the-badge&logo=ios&logoColor=white)
 
 **🛡️ Security**
 
